@@ -36,6 +36,15 @@ O projeto tem como objetivo praticar conceitos de **React**, **Vite**, **Tailwin
 
 ---
 
+## 🌐 Acesse Online
+
+O portfólio está hospedado e disponível para visualização:  
+👉 [Clique aqui para acessar](https://apple-website-kolosque.vercel.app/)
+
+Ou, se preferir, escaneie o QR Code:
+
+<img src="public/assets/readme/qr-code.png" alt="QR Code do Portfólio" width="200"/>
+
 ## 🔧 Como Executar Localmente
 
 ```bash
